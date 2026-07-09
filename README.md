@@ -22,10 +22,10 @@ I'm deeply passionate about **Cybersecurity** and **low-level programming**. I l
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=py" width="48" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" draggable="false" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=py" width="48" draggable="false" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" draggable="false" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" draggable="false" /></td>
     </tr>
     <tr>
       <td align="center"><strong>C</strong></td>
